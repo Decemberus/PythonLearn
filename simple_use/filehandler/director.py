@@ -21,4 +21,4 @@ def walkDir(path):
             print('\t%s' % fname)
 
 
-walkDir('.')
+walkDir('')

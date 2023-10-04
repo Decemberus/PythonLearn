@@ -11,6 +11,6 @@ def PrintFileMode(path):
 
 
 
-PrintFileMode('.')
-os.rename("test.txt","test_new.txt")
+PrintFileMode('')
+os.rename("test.txt", "test_new.txt")
 os.makedirs()
